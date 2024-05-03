@@ -87,6 +87,7 @@ header {
 .menu li a:hover {
     color: #000;
 }
+
 #home {
     margin-top: 50px;
     display: flex;
