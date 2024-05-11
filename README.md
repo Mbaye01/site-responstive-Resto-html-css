@@ -1,4 +1,4 @@
-Ce projet est un site web de vente de plans, créé avec HTML et CSS. Le fichier HTML contient la structure de base du site, tandis que le fichier CSS gère le style et la mise en page, y compris la fonctionnalité Grid pour organiser les éléments.
+Ce projet est un site web restaurant responstive , créé avec HTML et CSS. Le fichier HTML contient la structure de base du site, tandis que le fichier CSS gère le style et la mise en page, y compris la fonctionnalité Grid pour organiser les éléments.
 Structure des Fichiers
 index.html : Fichier principal contenant la structure HTML de la page.
 styles.css : Fichier de style CSS pour la mise en forme et le design du site.
